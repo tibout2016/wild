@@ -1,0 +1,102 @@
+
+
+  .nav a {
+display: inline-block;
+color: #5a5a5a;
+font-size: 20px;
+font-weight: bold;
+padding: 14px 10px;
+text-transform: uppercase;
+margin-right: 30px
+}
+.nav li {
+display: inline;
+}
+
+
+.jumbotron {
+  margin-left: 8px;
+  margin-right: 5px;
+  margin-top: 5px;
+  margin-bottom: 20px;
+  background-image:url('http://previews.123rf.com/images/tintin75/tintin751405/tintin75140500050/28525378-A-red-vintage-circus-background-for-a-poster-Stock-Vector.jpg');
+height: 500px;
+  background-repeat: no-repeat;
+  background-image: 220%;
+
+
+}
+
+.jumbotron.container {
+margin-top: 60px;
+position: relative;
+top:100px;
+
+}
+
+.jumbotron h4 {
+  margin-top: 20px;
+  color: black;
+  font: center;
+  font-size: 100px; 
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron h5 {
+font: center;
+  color: red;
+  font-size: 60px;
+  
+}
+.couteau{
+  vertical-align;
+  }
+
+#elephant{
+padding: 100px;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+#thecircusHistory p {
+  margin: auto;
+  width: 500px;
+ font-size: 80px;
+  color: #D9B309;
+  }
+#photoacceuil {
+  min-width:100%;
+min-height:100%;
+width:auto;
+height:auto;
+}
+#chapiteau {
+  margin-top: 70px;
+ +  margin-top: 50px;
+    margin-right: 80px;
+    height: 700px;
+    background-image: url('http://masmoulin.blog.lemonde.fr/files/2015/08/2-Cirque.jpg');
+    }
+
+ #knife {
+  margin-top: 70px;
+ +  margin-top: 50px;
+    margin-right: 80px;
+    height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-image: url('http://www.lancercouteaux.info/images/divers/roue_de_la_mort.jpg');
+    }
+

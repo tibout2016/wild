@@ -1,0 +1,88 @@
+
+
+  .nav a {
+display: inline-block;
+color: #5a5a5a;
+font-size: 20px;
+font-weight: bold;
+padding: 14px 10px;
+text-transform: uppercase;
+}
+.nav li {
+display: inline;
+}
+
+
+.jumbotron {
+  margin-top: 5px;
+  background-image:url('http://www.vectorfree.com/media/vectors/yellow-background-red-swirl.jpg');
+  background-repeat: no-repeat;
+width:auto;
+height:auto;
+
+}
+
+.jumbotron.container {
+margin-top: 60px;
+position: relative;
+top:200px;
+}
+
+.jumbotron h2 {
+  margin-top: 50px;
+  color: black;
+  font-size: 100px; 
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron h3 {
+
+  color: red;
+  font-size: 50px;
+  
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+#thecircusHistory p {
+  margin: auto;
+  width: 500px;
+ font-size: 80px;
+  color: #D9B309;
+  }
+#photoacceuil {
+  min-width:100%;
+min-height:100%;
+width:auto;
+height:auto;
+}
+#chapiteau {
+  margin-top: 70px;
+ +  margin-top: 50px;
+    margin-right: 80px;
+    height: 700px;
+    background-image: url('http://masmoulin.blog.lemonde.fr/files/2015/08/2-Cirque.jpg');
+    }
+
+ #knife {
+  margin-top: 70px;
+ +  margin-top: 50px;
+    margin-right: 80px;
+    height: 700px;
+  background-repeat: no-repeat;
+  background-size: cover;
+    background-image: url('http://www.lancercouteaux.info/images/divers/roue_de_la_mort.jpg');
+    }
+
