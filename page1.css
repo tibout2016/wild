@@ -49,13 +49,7 @@ font: center;
   font-size: 60px;
   
 }
-.couteau{
-  vertical-align;
-  }
 
-#elephant{
-padding: 100px;
-}
 
 .learn-more {
   background-color: #f7f7f7;
@@ -99,4 +93,22 @@ height:auto;
   background-size: cover;
     background-image: url('http://www.lancercouteaux.info/images/divers/roue_de_la_mort.jpg');
     }
+
+.navigation a {
+display: inline-block;
+color: #5a5a5a;
+font-size: 20px;
+font-weight: bold;
+padding: 14px 10px;
+text-transform: uppercase;
+margin-right: 30px
+}
+.navigation li {
+display: inline;
+}
+.torche h1 {
+display: inline;
+}
+
+
 
